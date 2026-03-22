@@ -1,4 +1,4 @@
-# PitchPredict ML: Football Match Outcome Predictor
+# Football Betting Predictor (End-to-End Pipeline)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost%20%7C%20Random%20Forest-orange)
